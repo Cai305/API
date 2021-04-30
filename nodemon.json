@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "dbReact",
+        "MONGO_PASSWORD": "@CAIPHUS305s",
+        "MONGO_DB": "react"
+    }
+}
